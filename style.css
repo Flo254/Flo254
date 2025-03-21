@@ -1,0 +1,35 @@
+body{  
+
+    background-image: url("Screenshot_20250321-105502.jpg");
+}
+table{background-color:#ffffff9c;
+          margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+     margin-top: 10px;}
+th,td{
+    border: 1px solid black;
+     padding: 10px;
+    text-align:left;
+}
+td{
+color:solid black;
+font-size: large;
+text-align: center;
+}
+th{
+    background-color:aquamarine;
+text-align: center;
+}
+p{ 
+    text-align: center;
+    font-size: 20px;
+}
+
+h1,h2{text-align: center;
+    color: blue;}
+a{
+    text-align: center;
+    font-size: 18px;
+margin: auto;
+}
